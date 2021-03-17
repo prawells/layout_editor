@@ -1,4 +1,0 @@
-#Wed Mar 17 16:40:31 NPT 2021
-base.0=/Users/prawelz/Desktop/android-fundamentals-apps-v2-master/HelloToastChallenge/app/build/intermediates/transforms/dexMerger/debug/0
-path.0=classes.dex
-renamed.0=classes.dex
