@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/Users/prawelz/Desktop/android-fundamentals-apps-v2-master/HelloToastChallenge/app/src/main/assets"/><source path="/Users/prawelz/Desktop/android-fundamentals-apps-v2-master/HelloToastChallenge/app/build/generated/assets/shaders/debug"/></dataSet><dataSet config="debug"><source path="/Users/prawelz/Desktop/android-fundamentals-apps-v2-master/HelloToastChallenge/app/src/debug/assets"/></dataSet></merger>

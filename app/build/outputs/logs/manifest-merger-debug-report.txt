@@ -1,0 +1,150 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/prawelz/Desktop/android-fundamentals-apps-v2-master/HelloToastChallenge/app/src/main/AndroidManifest.xml:4:1-23:12
+INJECTED from /Users/prawelz/Desktop/android-fundamentals-apps-v2-master/HelloToastChallenge/app/src/main/AndroidManifest.xml:4:1-23:12
+INJECTED from /Users/prawelz/Desktop/android-fundamentals-apps-v2-master/HelloToastChallenge/app/src/main/AndroidManifest.xml:4:1-23:12
+INJECTED from /Users/prawelz/Desktop/android-fundamentals-apps-v2-master/HelloToastChallenge/app/src/main/AndroidManifest.xml:4:1-23:12
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/prawelz/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/04527169ae2e7a5d1a631b39e20bddf7/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/prawelz/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/aa57844b42968bb19691b8ef5a8752d1/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/prawelz/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/96e722c06cf203be7a985b31af9c08a4/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/prawelz/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/e8e216eab86fefb0063019fdf0d03a63/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:26.1.0] /Users/prawelz/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/11c08520d289dd3a9aabbe9f155eda28/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/prawelz/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/7d941a0d5fc85ff41f13df50c7640a5b/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/prawelz/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/66b5055815473ae1d0f711d1304c1f96/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/prawelz/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/c3bd8b53a397064fbb9ef1a680cec271/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/prawelz/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/544475dfe63de669a7b71eb732f34f92/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:26.1.0] /Users/prawelz/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/232ff7e003241e301d255e55d7d03461/AndroidManifest.xml:17:1-31:12
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/prawelz/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/3371af9164bbcce26f146304daf8503b/AndroidManifest.xml:17:1-30:12
+INJECTED from /Users/prawelz/Desktop/android-fundamentals-apps-v2-master/HelloToastChallenge/app/src/main/AndroidManifest.xml:4:1-23:12
+INJECTED from /Users/prawelz/Desktop/android-fundamentals-apps-v2-master/HelloToastChallenge/app/src/main/AndroidManifest.xml:4:1-23:12
+INJECTED from /Users/prawelz/Desktop/android-fundamentals-apps-v2-master/HelloToastChallenge/app/src/main/AndroidManifest.xml:4:1-23:12
+	package
+		ADDED from /Users/prawelz/Desktop/android-fundamentals-apps-v2-master/HelloToastChallenge/app/src/main/AndroidManifest.xml:5:5-45
+		INJECTED from /Users/prawelz/Desktop/android-fundamentals-apps-v2-master/HelloToastChallenge/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/prawelz/Desktop/android-fundamentals-apps-v2-master/HelloToastChallenge/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/prawelz/Desktop/android-fundamentals-apps-v2-master/HelloToastChallenge/app/src/main/AndroidManifest.xml
+		ADDED from /Users/prawelz/Desktop/android-fundamentals-apps-v2-master/HelloToastChallenge/app/src/main/AndroidManifest.xml:4:1-23:12
+		INJECTED from /Users/prawelz/Desktop/android-fundamentals-apps-v2-master/HelloToastChallenge/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/prawelz/Desktop/android-fundamentals-apps-v2-master/HelloToastChallenge/app/src/main/AndroidManifest.xml
+		ADDED from /Users/prawelz/Desktop/android-fundamentals-apps-v2-master/HelloToastChallenge/app/src/main/AndroidManifest.xml:4:1-23:12
+		INJECTED from /Users/prawelz/Desktop/android-fundamentals-apps-v2-master/HelloToastChallenge/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/prawelz/Desktop/android-fundamentals-apps-v2-master/HelloToastChallenge/app/src/main/AndroidManifest.xml:4:11-69
+application
+ADDED from /Users/prawelz/Desktop/android-fundamentals-apps-v2-master/HelloToastChallenge/app/src/main/AndroidManifest.xml:7:5-21:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/prawelz/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/04527169ae2e7a5d1a631b39e20bddf7/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/prawelz/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/04527169ae2e7a5d1a631b39e20bddf7/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/prawelz/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/aa57844b42968bb19691b8ef5a8752d1/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/prawelz/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/aa57844b42968bb19691b8ef5a8752d1/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/prawelz/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/96e722c06cf203be7a985b31af9c08a4/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/prawelz/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/96e722c06cf203be7a985b31af9c08a4/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/prawelz/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/e8e216eab86fefb0063019fdf0d03a63/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/prawelz/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/e8e216eab86fefb0063019fdf0d03a63/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:26.1.0] /Users/prawelz/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/11c08520d289dd3a9aabbe9f155eda28/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] /Users/prawelz/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/11c08520d289dd3a9aabbe9f155eda28/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/prawelz/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/7d941a0d5fc85ff41f13df50c7640a5b/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/prawelz/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/7d941a0d5fc85ff41f13df50c7640a5b/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/prawelz/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/66b5055815473ae1d0f711d1304c1f96/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/prawelz/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/66b5055815473ae1d0f711d1304c1f96/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/prawelz/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/c3bd8b53a397064fbb9ef1a680cec271/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/prawelz/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/c3bd8b53a397064fbb9ef1a680cec271/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/prawelz/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/544475dfe63de669a7b71eb732f34f92/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/prawelz/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/544475dfe63de669a7b71eb732f34f92/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] /Users/prawelz/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/232ff7e003241e301d255e55d7d03461/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] /Users/prawelz/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/232ff7e003241e301d255e55d7d03461/AndroidManifest.xml:25:5-29:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/prawelz/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/3371af9164bbcce26f146304daf8503b/AndroidManifest.xml:24:5-28:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/prawelz/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/3371af9164bbcce26f146304daf8503b/AndroidManifest.xml:24:5-28:19
+	android:supportsRtl
+		ADDED from /Users/prawelz/Desktop/android-fundamentals-apps-v2-master/HelloToastChallenge/app/src/main/AndroidManifest.xml:12:9-35
+	android:label
+		ADDED from /Users/prawelz/Desktop/android-fundamentals-apps-v2-master/HelloToastChallenge/app/src/main/AndroidManifest.xml:10:9-41
+	android:roundIcon
+		ADDED from /Users/prawelz/Desktop/android-fundamentals-apps-v2-master/HelloToastChallenge/app/src/main/AndroidManifest.xml:11:9-54
+	android:icon
+		ADDED from /Users/prawelz/Desktop/android-fundamentals-apps-v2-master/HelloToastChallenge/app/src/main/AndroidManifest.xml:9:9-43
+	android:allowBackup
+		ADDED from /Users/prawelz/Desktop/android-fundamentals-apps-v2-master/HelloToastChallenge/app/src/main/AndroidManifest.xml:8:9-35
+	android:theme
+		ADDED from /Users/prawelz/Desktop/android-fundamentals-apps-v2-master/HelloToastChallenge/app/src/main/AndroidManifest.xml:13:9-40
+activity#com.example.android.hellotoast.MainActivity
+ADDED from /Users/prawelz/Desktop/android-fundamentals-apps-v2-master/HelloToastChallenge/app/src/main/AndroidManifest.xml:14:9-20:20
+	android:name
+		ADDED from /Users/prawelz/Desktop/android-fundamentals-apps-v2-master/HelloToastChallenge/app/src/main/AndroidManifest.xml:14:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/prawelz/Desktop/android-fundamentals-apps-v2-master/HelloToastChallenge/app/src/main/AndroidManifest.xml:15:13-19:29
+action#android.intent.action.MAIN
+ADDED from /Users/prawelz/Desktop/android-fundamentals-apps-v2-master/HelloToastChallenge/app/src/main/AndroidManifest.xml:16:17-69
+	android:name
+		ADDED from /Users/prawelz/Desktop/android-fundamentals-apps-v2-master/HelloToastChallenge/app/src/main/AndroidManifest.xml:16:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/prawelz/Desktop/android-fundamentals-apps-v2-master/HelloToastChallenge/app/src/main/AndroidManifest.xml:18:17-77
+	android:name
+		ADDED from /Users/prawelz/Desktop/android-fundamentals-apps-v2-master/HelloToastChallenge/app/src/main/AndroidManifest.xml:18:27-74
+uses-sdk
+INJECTED from /Users/prawelz/Desktop/android-fundamentals-apps-v2-master/HelloToastChallenge/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/prawelz/Desktop/android-fundamentals-apps-v2-master/HelloToastChallenge/app/src/main/AndroidManifest.xml
+INJECTED from /Users/prawelz/Desktop/android-fundamentals-apps-v2-master/HelloToastChallenge/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/prawelz/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/04527169ae2e7a5d1a631b39e20bddf7/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/prawelz/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/04527169ae2e7a5d1a631b39e20bddf7/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/prawelz/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/aa57844b42968bb19691b8ef5a8752d1/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/prawelz/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/aa57844b42968bb19691b8ef5a8752d1/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/prawelz/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/96e722c06cf203be7a985b31af9c08a4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/prawelz/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/96e722c06cf203be7a985b31af9c08a4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/prawelz/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/e8e216eab86fefb0063019fdf0d03a63/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/prawelz/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/e8e216eab86fefb0063019fdf0d03a63/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.1.0] /Users/prawelz/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/11c08520d289dd3a9aabbe9f155eda28/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] /Users/prawelz/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/11c08520d289dd3a9aabbe9f155eda28/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/prawelz/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/7d941a0d5fc85ff41f13df50c7640a5b/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/prawelz/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/7d941a0d5fc85ff41f13df50c7640a5b/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/prawelz/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/66b5055815473ae1d0f711d1304c1f96/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/prawelz/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/66b5055815473ae1d0f711d1304c1f96/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/prawelz/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/c3bd8b53a397064fbb9ef1a680cec271/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/prawelz/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/c3bd8b53a397064fbb9ef1a680cec271/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/prawelz/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/544475dfe63de669a7b71eb732f34f92/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/prawelz/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/544475dfe63de669a7b71eb732f34f92/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] /Users/prawelz/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/232ff7e003241e301d255e55d7d03461/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] /Users/prawelz/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/232ff7e003241e301d255e55d7d03461/AndroidManifest.xml:21:5-23:58
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/prawelz/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/3371af9164bbcce26f146304daf8503b/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/prawelz/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/3371af9164bbcce26f146304daf8503b/AndroidManifest.xml:20:5-22:41
+INJECTED from /Users/prawelz/Desktop/android-fundamentals-apps-v2-master/HelloToastChallenge/app/src/main/AndroidManifest.xml
+INJECTED from /Users/prawelz/Desktop/android-fundamentals-apps-v2-master/HelloToastChallenge/app/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:26.1.0] /Users/prawelz/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/04527169ae2e7a5d1a631b39e20bddf7/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /Users/prawelz/Desktop/android-fundamentals-apps-v2-master/HelloToastChallenge/app/src/main/AndroidManifest.xml
+		ADDED from /Users/prawelz/Desktop/android-fundamentals-apps-v2-master/HelloToastChallenge/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/prawelz/Desktop/android-fundamentals-apps-v2-master/HelloToastChallenge/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/prawelz/Desktop/android-fundamentals-apps-v2-master/HelloToastChallenge/app/src/main/AndroidManifest.xml
+		ADDED from /Users/prawelz/Desktop/android-fundamentals-apps-v2-master/HelloToastChallenge/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/prawelz/Desktop/android-fundamentals-apps-v2-master/HelloToastChallenge/app/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:26.1.0] /Users/prawelz/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/04527169ae2e7a5d1a631b39e20bddf7/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/prawelz/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/96e722c06cf203be7a985b31af9c08a4/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/prawelz/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/96e722c06cf203be7a985b31af9c08a4/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/prawelz/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/e8e216eab86fefb0063019fdf0d03a63/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/prawelz/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/e8e216eab86fefb0063019fdf0d03a63/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-v4:26.1.0] /Users/prawelz/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/11c08520d289dd3a9aabbe9f155eda28/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.1.0] /Users/prawelz/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/11c08520d289dd3a9aabbe9f155eda28/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/prawelz/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/7d941a0d5fc85ff41f13df50c7640a5b/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/prawelz/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/7d941a0d5fc85ff41f13df50c7640a5b/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/prawelz/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/66b5055815473ae1d0f711d1304c1f96/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/prawelz/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/66b5055815473ae1d0f711d1304c1f96/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/prawelz/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/c3bd8b53a397064fbb9ef1a680cec271/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/prawelz/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/c3bd8b53a397064fbb9ef1a680cec271/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/prawelz/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/544475dfe63de669a7b71eb732f34f92/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/prawelz/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/544475dfe63de669a7b71eb732f34f92/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] /Users/prawelz/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/232ff7e003241e301d255e55d7d03461/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] /Users/prawelz/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/232ff7e003241e301d255e55d7d03461/AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:appcompat-v7:26.1.0] /Users/prawelz/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/04527169ae2e7a5d1a631b39e20bddf7/AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:appcompat-v7:26.1.0] /Users/prawelz/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/04527169ae2e7a5d1a631b39e20bddf7/AndroidManifest.xml:27:13-51
+meta-data#android.arch.lifecycle.VERSION
+ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/prawelz/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/3371af9164bbcce26f146304daf8503b/AndroidManifest.xml:25:9-27:47
+	android:value
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/prawelz/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/3371af9164bbcce26f146304daf8503b/AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/prawelz/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/3371af9164bbcce26f146304daf8503b/AndroidManifest.xml:26:13-58
